@@ -51,3 +51,7 @@ secrets.txt
 
 
 *notes.txt
+
+__pycache__/
+global_model.h5
+training_logs.json
