@@ -48,3 +48,6 @@ secrets.txt
 *.pt
 *.pth
 *.weights
+
+
+*notes.txt
