@@ -1,0 +1,50 @@
+# Ignore virtual environments
+fl_env_*/
+env/
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Local data or secrets
+*.env
+.env
+secrets.txt
+
+# Mac/Linux hidden files
+.*~
+
+# Compiled files
+*.so
+*.o
+*.out
+*.class
+
+# Model artifacts or large files
+*.h5
+*.pb
+*.tflite
+*.onnx
+*.ckpt
+*.pt
+*.pth
+*.weights
