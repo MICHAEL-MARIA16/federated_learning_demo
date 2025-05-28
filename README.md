@@ -150,7 +150,7 @@ pip install -r requirements.txt
 AI & Data Science Enthusiast | HealthTech Builder
 *“Building the future, one neural net at a time.”*
 
-🔗 [LinkedIn](https://linkedin.com/in/your-link) •  🧠 (https://github.com/your-username/zephyre)
+🔗 [LinkedIn](https://linkedin.com/in/maria-selciya-m) •  🧠 (https://github.com/MICHAEL-MARIA16/federated_learning_demo)
 
 ---
 
