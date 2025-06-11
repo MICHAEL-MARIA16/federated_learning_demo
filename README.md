@@ -78,6 +78,18 @@ Round 5 - Accuracy: ~87%
 
 ---
 
+
+## 🎥 Live Demo: See It in Action
+
+Wanna skip the code and see the magic? Watch the full simulation demo below 👇
+
+▶️ [Watch Demo Video](./output_demo_vdo/fl_demo_output.mp4)
+
+> 📁 File: `output_demo_vdo/fl_demo_output.mp4`
+
+---
+
+
 ## 🧾 Sample Predictions
 
 ```
