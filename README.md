@@ -81,7 +81,7 @@ Round 5 - Accuracy: ~87%
 
 ## 🎥 Live Demo: Text Shield in Action
 
-![Text Shield Federated Learning Demo](./output_demo_video/fl_demo_output.gif)
+![Text Shield Federated Learning Demo](./output_demo_vdo/fl_demo_output.gif)
 
 > 🛡️ *Watch how local clients train independently and the server smartly aggregates the knowledge — all without touching private data.*  
 > Welcome to the future of **privacy-first machine learning**.
